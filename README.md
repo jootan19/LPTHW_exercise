@@ -7,4 +7,4 @@ Starts from exercise 15.
 
 * 1 - 14 skipped - Codecademy does it better for these chapters.
 
-* 18 - 21 skipped. because Codecademy
+* 18 - 25 skipped. because Codecademy
